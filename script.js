@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
     { name: "4양화진", count: 10, title: "양화진" },
     { name: "5이스라엘", count: 4, title: "이스라엘" },
     { name: "6메노라", count: 14, title: "메노라" },
-    { name: "7히브리", count: 39, title: "히브리" },
+    { name: "7히브리", count: 33, title: "히브리" },
     { name: "8독수리", count: 12, title: "독수리" },
     { name: "9전경", count: 7, title: "전경" },
     { name: "10포스터", count: 11, title: "포스터" },
