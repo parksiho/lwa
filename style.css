@@ -613,11 +613,16 @@ h4 {
   /* Typography Adjustments */
   .main-title {
     font-size: 3rem;
+    text-align: center;
   }
 
   .section-title {
     font-size: 1.5rem;
     width: 100%;
+    left: auto;
+    transform: none;
+    display: block;
+    text-align: center;
   }
 
   .verse-text {
